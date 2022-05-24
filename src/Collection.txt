@@ -1,0 +1,25 @@
+Collections(framework)-> Collection, Map, Iterator
+Collection(interface)
+----------------------------
+
+List(interface)
+----------------------------
+ArrayList(class)
+LinkedList(class)
+Stack(class)
+Vector(class)
+
+
+Set(interface)
+----------------------------
+EnumSet(class)
+HashSet(class)
+LinkedHashSet(class)
+TreeSet(class)
+
+
+Queue(interface)
+----------------------------
+LinkedList(class)
+ArrayDeque(class)
+PriorityQueue(class)
